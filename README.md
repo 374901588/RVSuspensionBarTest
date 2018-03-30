@@ -1,6 +1,6 @@
 # RVSuspensionBarTest
 
-###博客链接：[RecyclerView Item 的悬浮效果（吸附效果）的实现](https://blog.csdn.net/OneDeveloper/article/details/79760228)
+### 博客链接：[RecyclerView Item 的悬浮效果（吸附效果）的实现](https://blog.csdn.net/OneDeveloper/article/details/79760228)
 
 **效果展示：**
 
